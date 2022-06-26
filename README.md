@@ -5,6 +5,19 @@ Written Analysis of Results
 Overview of Project: The purpose of this analysis is to show a thorough analysis of VBA including creating for loops, conditional formatting, and repurposing code previously used to quicken the process of the stock analysis.
 
 Analysis: Using images and examples of your code, compare the stock performance between 2017 and 2018, and the execution times of the original script and the refactored script.
+2017 Before Challenge
+https://github.com/tabathamurray/stock_analysis/blob/main/2017%20OLD.PNG
+
+2017 After Challenge
+https://github.com/tabathamurray/stock_analysis/blob/main/2017.PNG
+
+2018 Before Challenge
+https://github.com/tabathamurray/stock_analysis/blob/main/2018%20OLD.PNG
+
+2018 After Challenge
+https://github.com/tabathamurray/stock_analysis/blob/main/2018.PNG
+
+There is a definitive drop in the time it takes to run the analysis.
 
 Results: In a summary statement address the following:
 
